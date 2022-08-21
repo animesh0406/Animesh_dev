@@ -1,2 +1,2 @@
 this is file B
-version-1
+version-2 feature branch
